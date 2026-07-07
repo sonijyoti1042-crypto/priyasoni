@@ -1,2 +1,2 @@
 # priyasoni
-this is my first Git Repository.
+this is my first Git Repository. (jyoti soni)
